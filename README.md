@@ -12,7 +12,5 @@ This repository contains implementations of three graph neural network architect
 
 Install required dependencies: Python 3.7+, PyTorch, PyTorch Geometric, NumPy, Matplotlib, and Jupyter Notebook.
 
-## Usage
 
-Open the Jupyter notebooks and execute the cells in sequence. Each notebook contains a complete implementation with example data.
 
