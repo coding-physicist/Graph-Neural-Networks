@@ -1,22 +1,21 @@
 # Graph Neural Networks
 
-## Disclaimer
-**These codes are for learning and reference only. Not intended for production or research use. Do not reuse or copy directly.**
+This repository contains implementations of three graph neural network architectures. The code is provided for reference and educational comparison.
 
-This repository contains basic, illustrative GNN examples for demonstration and tutorial purposes only.
+## Contents
 
-## What's Included
-- GCN (Graph Convolutional Network) - `GCN_Implementation.ipynb`
-- GAT (Graph Attention Network) - `GAT_Implementation.ipynb`
-- GraphSAGE - `GraphSage Implementation.ipynb`
+- `GCN_Implementation.ipynb` - Graph Convolutional Network implementation
+- `GAT_Implementation.ipynb` - Graph Attention Network implementation
+- `GraphSage Implementation.ipynb` - GraphSAGE implementation
 
-## Requirements
-- Python 3.7+
-- PyTorch
-- PyTorch Geometric
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+## Installation
+
+Install required dependencies: Python 3.7+, PyTorch, PyTorch Geometric, NumPy, Matplotlib, and Jupyter Notebook.
+
+## Usage
+
+Open the Jupyter notebooks and execute the cells in sequence. Each notebook contains a complete implementation with example data.
 
 ## License
+
 MIT License
