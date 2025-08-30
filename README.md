@@ -1,6 +1,6 @@
 # Graph Neural Networks
 
-This repository contains implementations of three graph neural network architectures. The code is provided for reference and educational comparison.
+This repository contains implementations of three graph neural network architectures. 
 
 ## Contents
 
