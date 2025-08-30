@@ -16,6 +16,3 @@ Install required dependencies: Python 3.7+, PyTorch, PyTorch Geometric, NumPy, M
 
 Open the Jupyter notebooks and execute the cells in sequence. Each notebook contains a complete implementation with example data.
 
-## License
-
-MIT License
